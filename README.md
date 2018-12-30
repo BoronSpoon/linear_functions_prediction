@@ -22,9 +22,9 @@ _________________________________________________________________
 </pre>
 
 ## training result
-Loss and validation loss.
+Loss and validation loss.   
 ![train result](train.png?raw=true "train result")
 
 ## evaluation result
-Prediction of linear function. Seems that the sigmoid function is not suitable for linear functions.
+Prediction of linear function. Seems that the sigmoid function is not suitable for linear functions.   
 ![evaluation result](eval.png?raw=true "evaluation result")
