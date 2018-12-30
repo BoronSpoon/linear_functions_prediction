@@ -120,3 +120,5 @@ dmypy.json
 #datasets
 *.npy
 *.pickle
+#models
+*.h5
