@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "138add37cbb52b0f1630d146d4871946d775483ba315baff5fdde0d50f948e0d"
+            "sha256": "fc3d0ee128bcfaff4f7ad0a14b25a508aa31473c1016d66792a32b6f545f7bd8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -332,6 +332,29 @@
                 "sha256:fcfc907746ec22716f05ea96b7f41597dfe1a1c088f861efb8a0d4f4196a6f10"
             ],
             "version": "==3.6.1"
+        },
+        "pydot": {
+            "hashes": [
+                "sha256:67be714300c78fda5fd52f79ec994039e3f76f074948c67b5ff539b433ad354f",
+                "sha256:d49c9d4dd1913beec2a997f831543c8cbd53e535b1a739e921642fe416235f01"
+            ],
+            "index": "pypi",
+            "version": "==1.4.1"
+        },
+        "pydot-ng": {
+            "hashes": [
+                "sha256:251ec5cde0d20ebd467b12fd8a4db0f52d2fbf6e12660a969a226823ba38644e",
+                "sha256:8c8073b97aa7030c28118961e2c6c92f046e4cb57aeba7df87146f7baa6530c5"
+            ],
+            "index": "pypi",
+            "version": "==2.0.0"
+        },
+        "pydot3": {
+            "hashes": [
+                "sha256:413b52b970366bf8b38add553c3b7077a31751d7cd8ab5db00de6f1e9ec6b5a5"
+            ],
+            "index": "pypi",
+            "version": "==1.0.9"
         },
         "pyparsing": {
             "hashes": [

@@ -32,6 +32,8 @@ with open("model.txt", mode='w') as f:
     model.summary(print_fn=lambda x: stringlist.append(x))
     str_model_summary = "\n".join(stringlist)
     f.write(str_model_summary)
+#saves the model into png file
+plot_model(model, to_file='model.png')
 
 #defines the lr for the optimizer
 sgd = keras.optimizers.SGD(lr = 0.01)
